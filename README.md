@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="imgs/olive-robotics-logo-white.jpeg" alt="drawing" width="500"/><br \>
+<img src="imgs/olive-robotics-logo-white.jpeg" alt="drawing" width="400"/><br \>
 ROS2 Interfaces
 </h1>
 
